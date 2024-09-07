@@ -1,4 +1,4 @@
-# 01
+# IF,ELIF,ELSE STATEMENT
 # 1) check if a number is positive 
 
 num = int(input("Enter a number:"))
